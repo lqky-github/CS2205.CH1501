@@ -5,8 +5,8 @@ Lê Quang Kỳ. Khoá: K15. Ngành: CNTT
 - Chia sẻ, kết nối: lqky.15@grad.uit.edu.vn
 
 # Nhóm
-1.	Lê Quang Kỳ - kylq.15@grad.uit.edu.vn 
-2.	Chu Vũ Thuỳ Linh - linhcvt.15@grad.uit.edu.vn 
-3.	Lê Võ Bảo Trân – tranlvb.15@grad.uit.edu.vn 
+1.	Lê Quang Kỳ - CH2002036- kylq.15@grad.uit.edu.vn 
+2.	Chu Vũ Thuỳ Linh CH200 - linhcvt.15@grad.uit.edu.vn 
+3.	Lê Võ Bảo Trân CH200 – tranlvb.15@grad.uit.edu.vn 
 
 # Các hoạt động trong môn học CS2205.CH1501:
