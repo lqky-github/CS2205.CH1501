@@ -8,3 +8,5 @@ Nhóm
 1.	Lê Quang Kỳ - kylq.15@grad.uit.edu.vn 
 2.	Chu Vũ Thuỳ Linh - linhcvt.15@grad.uit.edu.vn 
 3.	Lê Võ Bảo Trân – tranlvb.15@grad.uit.edu.vn 
+
+Các hoạt động trong môn học CS2205.CH1501:
