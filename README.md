@@ -10,3 +10,11 @@ Lê Quang Kỳ. Khoá: K15. Ngành: CNTT
 3.	Lê Võ Bảo Trân - CH2002020 – tranlvb.15@grad.uit.edu.vn - Repo: https://github.com/lvbtran1508/CS2205.CH1501
 
 # Các hoạt động trong môn học CS2205.CH1501:
+## QT11: TÌM KIẾM GOOGLE NÂNG CAO
+https://github.com/lqky-github/CS2205.CH1501-GoogleSearch
+
+## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
+https://github.com/lqky-github/CS2205.CH1501-GOOGLE-SCHOLAR
+
+ 
+
