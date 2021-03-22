@@ -16,6 +16,18 @@ https://github.com/lqky-github/CS2205.CH1501-GoogleSearch
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 https://github.com/lqky-github/CS2205.CH1501-GOOGLE-SCHOLAR
 
+## QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
+CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
+
+Tư duy phản biện hay là tư duy phân tích là một quá trình tư duy biện chứng gồm phân tích và đánh giá một thông tin đã có theo các cách nhìn khác cho vấn đề đã đặt ra nhằm làm sáng tỏ và khẳng định lại tính chính xác của vấn đề. Lập luận phản biện phải rõ ràng, logic, đầy đủ bằng chứng, tỉ mỉ và công tâm.
+
+Tư duy phản biện không chắc đã dẫn đến một kết luận chính xác. Thứ nhất là vì không ai có thế có toàn bộ thông tin chính xác. Thật vậy, những tin tức quan trọng thường được bảo mật rất cẩn thận và có rất nhiều thông tin còn chưa được khám phá hết. Bên cạnh đó, thành kiến có thể ngăn chặn sự thành công của việc tập trung, phân tích, đánh giá và truyền đạt thông tin. Tư duy phản biện có thể phân biệt, nhưng không thể tách rời khỏi cảm quan. Kết luận đưa ra phải đơn giản và ngắn gọn.
+
+Ví dụ: 
+A: Bệnh dịch COVID-19 sẽ ít lây lan từ đây đến cuối năm
+B: Tôi nghĩ ở Việt Nam có thể ít lây lan, nhưng ở Mỹ thì khác
+
+
 ## QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
 CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN: 
 1. Thói quen 
