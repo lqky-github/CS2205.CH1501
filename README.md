@@ -16,5 +16,17 @@ https://github.com/lqky-github/CS2205.CH1501-GoogleSearch
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 https://github.com/lqky-github/CS2205.CH1501-GOOGLE-SCHOLAR
 
- 
+## QT21: CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN
+CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN: 
+1. Thói quen 
+2. Phong tục tập quán 
+3. Bảo thủ, chưa có cái nhìn đa chiều 
+4. Ai cũng cho mình là người đúng nhất 
+5. Thái độ mặc kệ, ai làm gì cũng được miễn không liên quan đến mình thì thôi 
+6. Thiếu tinh thần hợp tác, xây dựng, làm việc nhóm 
+7. Thiếu tư duy khoa học 
+
+Vì dụ: Câu chuyện Thầy bói xem voi Tham khảo nguồn: https://vi.wikipedia.org/wiki/Th%E1%BA%A7y_b%C3%B3i_xem_voi
+
+
 
