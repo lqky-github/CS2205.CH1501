@@ -16,6 +16,9 @@ https://github.com/lqky-github/CS2205.CH1501-GoogleSearch
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 https://github.com/lqky-github/CS2205.CH1501-GOOGLE-SCHOLAR
 
+## QT18: SỬ DỤNG CONNECTEDPAPERS
+https://github.com/lqky-github/CS2205.CH1501-ConnectedPapers
+
 ## QT19: SỬ DỤNG PAPERSWITHCODE
 Nhiệm vụ của Papers with Code là tạo ra một nguồn tài nguyên mở và miễn phí với các bài báo, mã và bảng đánh giá của Machine Learning.
 Chúng tôi tin rằng điều này được thực hiện tốt nhất cùng với cộng đồng, được hỗ trợ bởi NLP và ML.
