@@ -26,7 +26,8 @@ CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN:
 6. Thiếu tinh thần hợp tác, xây dựng, làm việc nhóm 
 7. Thiếu tư duy khoa học 
 
-Vì dụ: Câu chuyện Thầy bói xem voi Tham khảo nguồn: https://vi.wikipedia.org/wiki/Th%E1%BA%A7y_b%C3%B3i_xem_voi
+Vì dụ: Câu chuyện Thầy bói xem voi 
+Tham khảo nguồn: https://vi.wikipedia.org/wiki/Th%E1%BA%A7y_b%C3%B3i_xem_voi
 
 
 
