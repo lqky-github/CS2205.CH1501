@@ -16,6 +16,13 @@ https://github.com/lqky-github/CS2205.CH1501-GoogleSearch
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 https://github.com/lqky-github/CS2205.CH1501-GOOGLE-SCHOLAR
 
+## QT19: SỬ DỤNG PAPERSWITHCODE
+Nhiệm vụ của Papers with Code là tạo ra một nguồn tài nguyên mở và miễn phí với các bài báo, mã và bảng đánh giá của Machine Learning.
+Chúng tôi tin rằng điều này được thực hiện tốt nhất cùng với cộng đồng, được hỗ trợ bởi NLP và ML.
+Tất cả nội dung trên trang web này được cấp phép công khai theo CC-BY-SA (giống như Wikipedia) và mọi người đều có thể đóng góp - hãy tìm các nút "Chỉnh sửa"!
+Chúng tôi cũng vận hành các cổng thông tin chuyên biệt cho các bài báo có mã trong thiên văn học, vật lý, khoa học máy tính, toán học và thống kê.
+
+
 ## QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
 CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
 
