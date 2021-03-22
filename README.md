@@ -22,6 +22,7 @@ Chúng tôi tin rằng điều này được thực hiện tốt nhất cùng v�
 Tất cả nội dung trên trang web này được cấp phép công khai theo CC-BY-SA (giống như Wikipedia) và mọi người đều có thể đóng góp - hãy tìm các nút "Chỉnh sửa"!
 Chúng tôi cũng vận hành các cổng thông tin chuyên biệt cho các bài báo có mã trong thiên văn học, vật lý, khoa học máy tính, toán học và thống kê.
 
+https://github.com/lqky-github/CS2205.CH1501-PAPERSWITHCODE/blob/main/README.md
 
 ## QT20: CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
 CRITICAL THINKING - TƯ DUY PHẢN BIỆN LÀ GÌ?
