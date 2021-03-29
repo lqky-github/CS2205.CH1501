@@ -53,5 +53,7 @@ Vì dụ: Câu chuyện Thầy bói xem voi
 
 Tham khảo nguồn: https://vi.wikipedia.org/wiki/Th%E1%BA%A7y_b%C3%B3i_xem_voi
 
+## WRITING: VIẾT 5-SENTENCE PARAGRAPH
+
 
 
