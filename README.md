@@ -121,7 +121,7 @@ Bài toán: Face scene detection:
 
     Input: Images
     Ouput:
-        Kết quả phân loại: có chứa ckhuônmặt
+        Kết quả phân loại: có chứa khuôn mặt
         Các scenes có chứa ảnh khuôn mặt.
 
 #### Tìm trong các bài survey 
