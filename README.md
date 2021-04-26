@@ -93,3 +93,38 @@ Giới thiệu và so sánh tổng quát 2 kiểu kết cấu:
 
 • Mở đầu: Tính cấp thiết của đề tài; Tổng quan nghiên cứu; Mục tiêu nghiên cứu; Đối tượng, phạm vi nghiên cứu; Phương pháp nghiên cứu.
 • Nội dung: Cơ sở lý luận; Thực trạng và giải pháp của vấn đề; Kết quả nghiên cứu; Đề xuất giải pháp, khuyến nghị.
+
+# QT30: CHỌN CHỦ ĐỀ NGHIÊN CỨU
+## 1. Lĩnh vực nghiên cứu (research area) là gì? Ví dụ CV, NLP, IoT, Big Dat
+### Phải trả lời 03 câu hỏi: VD IoT
+(1) Bạn có biết nhiều về Iot?
+(2) Bạn có biết nhiều về các vấn đề liên quan IoT?
+(3) Bạn có đủ kỹ năng và đam mê các vấn đề về IoT?
+
+#### Các lĩnh vực nghiên cứu tìm ở: https://paperswithcode.com/
+
+## 2. Các hội nghị tạp chí quan trọng là gì? Ví dụ CVPR, ICML, ACL
+### Các hội nghị tạp chí quan trọng tìm ở đâu? 
+https://www.scimagojr.com/journalrank.php
+
+### Làm sao biết ranking?
+http://portal.core.edu.au/conf-ranks/
+
+## 3. Các chủ đề nghiên cứu (research topic) là gì?
+### Các chủ đề nghiên cứu tìm ở đâu? Tìm trong call for papers các hội nghi, tạp chí, tìm trong paperswithcode
+https://paperswithcode.com/
+
+## 4. Các bài toán nghiên cứu là gì?
+### Các bài toán nghiên cứu tìm ở đâu? Tìm trong các bài survey --> cần kiểm tra ranking của nơi công bố, số trích dẫn (citations)
+
+#### Tìm trong các bài survey 
+https://ieeexplore.ieee.org/browse/conferences/title
+
+#### Kiểm tra ranking của nơi công bố, số trích dẫn (citations)
+http://portal.core.edu.au/conf-ranks/
+
+
+
+
+
+
