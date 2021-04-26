@@ -96,18 +96,18 @@ Giới thiệu và so sánh tổng quát 2 kiểu kết cấu:
 
 # QT30: CHỌN CHỦ ĐỀ NGHIÊN CỨU
 ## 1. Lĩnh vực nghiên cứu (research area) là gì? Ví dụ CV, NLP, IoT, Big Dat
-### Phải trả lời 03 câu hỏi: VD IoT
+### Phải trả lời 03 câu hỏi: VD IoT - Computer Vision
 (1) Bạn có biết nhiều về Iot?
 (2) Bạn có biết nhiều về các vấn đề liên quan IoT?
 (3) Bạn có đủ kỹ năng và đam mê các vấn đề về IoT?
 
 #### Các lĩnh vực nghiên cứu tìm ở: https://paperswithcode.com/
 
-## 2. Các hội nghị tạp chí quan trọng là gì? Ví dụ CVPR, ICML, ACL
+## 2. Các hội nghị tạp chí quan trọng là gì? Ví dụ Computer Vision
 ### Các hội nghị tạp chí quan trọng tìm ở đâu? 
 https://www.scimagojr.com/journalrank.php
 
-### Làm sao biết ranking?
+### Làm sao biết ranking? Computer Vision
 http://portal.core.edu.au/conf-ranks/
 
 ## 3. Các chủ đề nghiên cứu (research topic) là gì?
@@ -116,6 +116,13 @@ https://paperswithcode.com/
 
 ## 4. Các bài toán nghiên cứu là gì?
 ### Các bài toán nghiên cứu tìm ở đâu? Tìm trong các bài survey --> cần kiểm tra ranking của nơi công bố, số trích dẫn (citations)
+
+Bài toán: Face scene detection:
+
+    Input: Images
+    Ouput:
+        Kết quả phân loại: có chứa ckhuônmặt
+        Các scenes có chứa ảnh khuôn mặt.
 
 #### Tìm trong các bài survey 
 https://ieeexplore.ieee.org/browse/conferences/title
