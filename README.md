@@ -98,7 +98,9 @@ Giới thiệu và so sánh tổng quát 2 kiểu kết cấu:
 ## 1. Lĩnh vực nghiên cứu (research area) là gì? Ví dụ CV, NLP, IoT, Big Dat
 ### Phải trả lời 03 câu hỏi: VD IoT - Computer Vision
 (1) Bạn có biết nhiều về Iot?
+
 (2) Bạn có biết nhiều về các vấn đề liên quan IoT?
+
 (3) Bạn có đủ kỹ năng và đam mê các vấn đề về IoT?
 
 #### Các lĩnh vực nghiên cứu tìm ở: https://paperswithcode.com/
