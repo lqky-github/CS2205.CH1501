@@ -132,7 +132,8 @@ https://ieeexplore.ieee.org/browse/conferences/title
 #### Kiểm tra ranking của nơi công bố, số trích dẫn (citations)
 http://portal.core.edu.au/conf-ranks/
 
-
+# QT33 - PROPOSAL - ĐỀ CƯƠNG NGHIÊN CỨU
+https://github.com/lqky-github/CS2205.CH1501/blob/main/CS2205.ch1501.RM.FinalReport.CH.md
 
 
 
